@@ -1,0 +1,109 @@
+C:/Users/alireza/Documents/Project2/Test_Bench.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/Test_Bench.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Test_Bench
+
+Top level modules:
+	Test_Bench
+
+} {} {}} C:/Users/alireza/Documents/Project2/Test_Bench2.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/Test_Bench2.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Test_Bench2
+
+Top level modules:
+	Test_Bench2
+
+} {} {}} C:/Users/alireza/Documents/Project2/SignExtend.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/SignExtend.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Users/alireza/Documents/Project2/PC.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/PC.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/alireza/Documents/Project2/Controller.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/Controller.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/alireza/Documents/Project2/SignExtend_tb.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/SignExtend_tb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module SignExtend_tb
+
+Top level modules:
+	SignExtend_tb
+
+} {} {}} C:/Users/alireza/Documents/Project2/ALU_tb.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/ALU_tb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/Users/alireza/Documents/Project2/CPU_Core.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/CPU_Core.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module CPU_Core
+
+Top level modules:
+	CPU_Core
+
+} {} {}} C:/Users/alireza/Documents/Project2/ALU.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/ALU.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/alireza/Documents/Project2/Data_Memory.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/Data_Memory.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} C:/Users/alireza/Documents/Project2/Instruction_Memory.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/Instruction_Memory.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} C:/Users/alireza/Documents/Project2/Mux32bit_tb.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/Mux32bit_tb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Mux32bit_tb
+
+Top level modules:
+	Mux32bit_tb
+
+} {} {}} C:/Users/alireza/Documents/Project2/Register_File.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/Register_File.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} C:/Users/alireza/Documents/Project2/Mux32bit.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/Mux32bit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Mux32bit
+
+Top level modules:
+	Mux32bit
+
+} {} {}} C:/Users/alireza/Documents/Project2/Mux5bit.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/Mux5bit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Mux5bit
+
+Top level modules:
+	Mux5bit
+
+} {} {}} C:/Users/alireza/Documents/Project2/MIPS_DEFINES.v {1 {vlog -work work -vopt C:/Users/alireza/Documents/Project2/MIPS_DEFINES.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+
+} {} {}}

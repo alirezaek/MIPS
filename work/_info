@@ -1,0 +1,325 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alireza\Documents\Project2
+T_opt1
+Z1 V;4m4^YLPWVjgXhdicL[oN3
+Z2 04 3 4 work ALU fast 0
+Z3 =1-0050562d0883-5715ef4b-183-10bc
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt1
+Z6 OL;O;10.1c;51
+Z7 dC:\Users\alireza\Documents\Project2
+T_opt2
+Z8 VPPH6M]]^6eIeO=][1D:FN3
+Z9 04 4 4 work Test fast 0
+Z10 =1-0050562d0883-571614ba-36c-954
+Z11 o-quiet -auto_acc_if_foreign -work work +acc
+Z12 n@_opt2
+R6
+R7
+vALU
+Z13 !s100 MFUbC@:Szcf:VEgzhAc4D0
+Z14 If<Pba5[N6S82eM=>WeL]P1
+Z15 V_T5FOP>@na0PTOYh?R2912
+R7
+Z16 w1461086149
+Z17 8C:/Users/alireza/Documents/Project2/ALU.v
+Z18 FC:/Users/alireza/Documents/Project2/ALU.v
+L0 9
+Z19 OL;L;10.1c;51
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/ALU.v|
+Z21 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z22 n@a@l@u
+Z23 !s108 1461087225.503000
+Z24 !s107 MIPS_DEFINES.v|C:/Users/alireza/Documents/Project2/ALU.v|
+!i10b 1
+!s85 0
+vALU_tb
+Z25 !s100 iJfADSO629RJ[h=g>^?CW1
+Z26 I?mVA86Xi:I204V5NJ:55a1
+Z27 VE`_QLbcAmOeKZDFMXUl3B3
+R7
+Z28 w1461086150
+Z29 8C:/Users/alireza/Documents/Project2/ALU_tb.v
+Z30 FC:/Users/alireza/Documents/Project2/ALU_tb.v
+L0 6
+R19
+r1
+31
+Z31 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/ALU_tb.v|
+R21
+Z32 n@a@l@u_tb
+Z33 !s108 1461087225.722000
+Z34 !s107 C:/Users/alireza/Documents/Project2/ALU_tb.v|
+!i10b 1
+!s85 0
+vController
+Z35 !s100 kE1WN2<]=_I0D]AzhHO`G3
+Z36 ILPZU2YTeAmAz]<O[5lI]i0
+Z37 VdFKH8Q1k::azlGZ4627Ye1
+R7
+Z38 w1461087221
+Z39 8C:/Users/alireza/Documents/Project2/Controller.v
+Z40 FC:/Users/alireza/Documents/Project2/Controller.v
+L0 9
+R19
+r1
+31
+Z41 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Controller.v|
+R21
+Z42 n@controller
+Z43 !s108 1461087226.221000
+Z44 !s107 MIPS_DEFINES.v|C:/Users/alireza/Documents/Project2/Controller.v|
+!i10b 1
+!s85 0
+vCPU_Core
+Z45 !s100 kAZMC=WDm_]oKA36@N`<l1
+Z46 IljY_MFEF7NgcKDh=eaAhZ2
+Z47 V;@zU851mRbU4iC[T>]ckf1
+R7
+Z48 w1461086152
+Z49 8C:/Users/alireza/Documents/Project2/CPU_Core.v
+Z50 FC:/Users/alireza/Documents/Project2/CPU_Core.v
+L0 6
+R19
+r1
+31
+Z51 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/CPU_Core.v|
+R21
+Z52 n@c@p@u_@core
+Z53 !s108 1461087226.331000
+Z54 !s107 C:/Users/alireza/Documents/Project2/CPU_Core.v|
+!i10b 1
+!s85 0
+vData_Memory
+Z55 !s100 OQ<<CW9;V6C5GN9Xd]85B3
+Z56 IMOzM^0AKRSZIVZOJFR>gL3
+Z57 VR[O7dYSb[Y80Jfbh?ZN021
+R7
+Z58 w1461086153
+Z59 8C:/Users/alireza/Documents/Project2/Data_Memory.v
+Z60 FC:/Users/alireza/Documents/Project2/Data_Memory.v
+L0 8
+R19
+r1
+31
+Z61 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Data_Memory.v|
+R21
+Z62 n@data_@memory
+Z63 !s108 1461087226.440000
+Z64 !s107 MIPS_DEFINES.v|C:/Users/alireza/Documents/Project2/Data_Memory.v|
+!i10b 1
+!s85 0
+vInstruction_Memory
+Z65 !s100 JD<H?0G1VCMUHU:WXFgF>1
+Z66 I0=N_EW<L]T2bA[XgDGdMR2
+Z67 V2nf<eUWdm6:5Q`jaUc04i1
+R7
+Z68 w1461086154
+Z69 8C:/Users/alireza/Documents/Project2/Instruction_Memory.v
+Z70 FC:/Users/alireza/Documents/Project2/Instruction_Memory.v
+L0 8
+R19
+r1
+31
+Z71 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Instruction_Memory.v|
+R21
+Z72 n@instruction_@memory
+Z73 !s108 1461087226.534000
+Z74 !s107 MIPS_DEFINES.v|C:/Users/alireza/Documents/Project2/Instruction_Memory.v|
+!i10b 1
+!s85 0
+vMux32bit
+Z75 !s100 F4GN50n=7Qh5XZJcJS?:22
+Z76 IzBjYjc_RhGU]m^2_8HlZ@0
+Z77 VmaE?Q3GfIJh<V;i9_3XTK1
+R7
+Z78 w1461087062
+Z79 8C:/Users/alireza/Documents/Project2/Mux32bit.v
+Z80 FC:/Users/alireza/Documents/Project2/Mux32bit.v
+L0 6
+R19
+r1
+31
+Z81 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Mux32bit.v|
+R21
+Z82 n@mux32bit
+Z83 !s108 1461087225.894000
+Z84 !s107 C:/Users/alireza/Documents/Project2/Mux32bit.v|
+!i10b 1
+!s85 0
+vMux32bit_tb
+Z85 !s100 baJmYXX216T`g[Man><1a0
+Z86 IT;E8OjeDM82LX]bB3^O@V2
+Z87 VK0dzmS[HL4GcnTHj@FI[`2
+R7
+Z88 w1461086155
+Z89 8C:/Users/alireza/Documents/Project2/Mux32bit_tb.v
+Z90 FC:/Users/alireza/Documents/Project2/Mux32bit_tb.v
+L0 6
+R19
+r1
+31
+Z91 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Mux32bit_tb.v|
+R21
+Z92 n@mux32bit_tb
+Z93 !s108 1461087226.628000
+Z94 !s107 C:/Users/alireza/Documents/Project2/Mux32bit_tb.v|
+!i10b 1
+!s85 0
+vMux5bit
+Z95 !s100 @@in:=VL;;19lePOCMWN93
+Z96 I:gREL=B1aZX9AgYek0[T@1
+Z97 VoabCF:TdAP:<4:1SEPIBL2
+R7
+Z98 w1461087067
+Z99 8C:/Users/alireza/Documents/Project2/Mux5bit.v
+Z100 FC:/Users/alireza/Documents/Project2/Mux5bit.v
+L0 6
+R19
+r1
+31
+Z101 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Mux5bit.v|
+R21
+Z102 n@mux5bit
+Z103 !s108 1461087225.816000
+Z104 !s107 C:/Users/alireza/Documents/Project2/Mux5bit.v|
+!i10b 1
+!s85 0
+vPC
+Z105 !s100 ITQI62ZYke<ZG?[2HTM@n0
+Z106 Ibz`U6nY4_6H42lY:_bb7R1
+Z107 V9S:J=bha>eWUcT580z>0I3
+R7
+Z108 w1461086157
+Z109 8C:/Users/alireza/Documents/Project2/PC.v
+Z110 FC:/Users/alireza/Documents/Project2/PC.v
+L0 6
+R19
+r1
+31
+Z111 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/PC.v|
+R21
+n@p@c
+!i10b 1
+!s85 0
+Z112 !s108 1461087226.956000
+Z113 !s107 C:/Users/alireza/Documents/Project2/PC.v|
+vRegister_File
+Z114 !s100 9TnFDiHnMDIJJC21P]fWQ3
+Z115 IKi`I1@1g3Bmb2zcK?R@n03
+Z116 VXCdg]AcCl=II9VOHZ3jF90
+R7
+Z117 w1461087055
+Z118 8C:/Users/alireza/Documents/Project2/Register_File.v
+Z119 FC:/Users/alireza/Documents/Project2/Register_File.v
+L0 6
+R19
+r1
+31
+Z120 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Register_File.v|
+R21
+Z121 n@register_@file
+Z122 !s108 1461087225.971000
+Z123 !s107 C:/Users/alireza/Documents/Project2/Register_File.v|
+!i10b 1
+!s85 0
+vSignExtend
+Z124 !s100 fn`L4DFUC8FA7@OilQnh<0
+Z125 Ib8bjhOOG;`iVg;fi8;bC:2
+Z126 VeE4`S3Nok6WEYQBhH`z?:3
+R7
+Z127 w1461086156
+Z128 8C:/Users/alireza/Documents/Project2/SignExtend.v
+Z129 FC:/Users/alireza/Documents/Project2/SignExtend.v
+L0 6
+R19
+r1
+31
+Z130 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/SignExtend.v|
+R21
+Z131 n@sign@extend
+Z132 !s108 1461087226.768000
+Z133 !s107 C:/Users/alireza/Documents/Project2/SignExtend.v|
+!i10b 1
+!s85 0
+vSignExtend_tb
+Z134 !s100 d:W]j13>;M<XINV^6?eSV0
+Z135 IC2Q;0kQH:ld`GKGoSA2a<3
+Z136 VV7zF0T6BJYgb2ijPSk1L01
+R7
+R127
+Z137 8C:/Users/alireza/Documents/Project2/SignExtend_tb.v
+Z138 FC:/Users/alireza/Documents/Project2/SignExtend_tb.v
+L0 6
+R19
+r1
+31
+Z139 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/SignExtend_tb.v|
+R21
+Z140 n@sign@extend_tb
+Z141 !s108 1461087226.862000
+Z142 !s107 C:/Users/alireza/Documents/Project2/SignExtend_tb.v|
+!i10b 1
+!s85 0
+vTest
+Z143 IVe3SlFY18L3a=]SnlC07j2
+Z144 VSN[ZS58TmO=;X8^Z8QZol2
+R7
+Z145 w1461071872
+Z146 8C:/Users/alireza/Documents/Project2/Test.v
+Z147 FC:/Users/alireza/Documents/Project2/Test.v
+L0 1
+R19
+r1
+31
+R21
+Z148 n@test
+Z149 !s100 MJ3YoOPcjG_=0987CM1gm1
+Z150 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Test.v|
+Z151 !s108 1461085625.916000
+Z152 !s107 C:/Users/alireza/Documents/Project2/Test.v|
+!i10b 1
+!s85 0
+vTest_Bench
+Z153 !s100 7W>?Qancc1E^;9U[Uibi70
+Z154 Idi_XPn6kLiXT>2IO``BSG0
+Z155 VIk?bBZgY8cJ_3gDmic;i<0
+R7
+Z156 w1461086190
+Z157 8C:/Users/alireza/Documents/Project2/Test_Bench.v
+Z158 FC:/Users/alireza/Documents/Project2/Test_Bench.v
+L0 10
+R19
+r1
+31
+Z159 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Test_Bench.v|
+R21
+Z160 n@test_@bench
+Z161 !s108 1461087226.112000
+Z162 !s107 C:/Users/alireza/Documents/Project2/Test_Bench.v|
+!i10b 1
+!s85 0
+vTest_Bench2
+!i10b 1
+Z163 !s100 WW^fazV6h^ZdK1TGUNM:<0
+Z164 I_]Adfc[gA>on2?ZEj@nNa3
+Z165 Vn]@jo;XGY`;Ln34X[bA1D1
+R7
+Z166 w1461086047
+Z167 8C:/Users/alireza/Documents/Project2/Test_Bench2.v
+Z168 FC:/Users/alireza/Documents/Project2/Test_Bench2.v
+L0 10
+R19
+r1
+!s85 0
+31
+!s108 1461087227.034000
+!s107 C:/Users/alireza/Documents/Project2/Test_Bench2.v|
+Z169 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/alireza/Documents/Project2/Test_Bench2.v|
+R21
+Z170 n@test_@bench2

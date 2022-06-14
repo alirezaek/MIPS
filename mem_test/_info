@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alireza\Documents\Project2
+vInstruction_Memory
+V2nf<eUWdm6:5Q`jaUc04i1
+r1
+!s85 0
+31
+IT4?5V<V?ki<>9khdXB9iW3
+Z1 dC:\Users\alireza\Documents\Project2
+w1460983098
+8Instruction_Memory.v
+FInstruction_Memory.v
+L0 3
+OL;L;10.1c;51
+o-work mem_test -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@instruction_@memory
+!i10b 1
+!s100 V0B:Z2iZ_QBn>lk<^]^I[0
+!s108 1460983106.027000
+!s107 MIPS_DEFINES.v|Instruction_Memory.v|
+!s90 -reportprogress|300|-work|mem_test|Instruction_Memory.v|

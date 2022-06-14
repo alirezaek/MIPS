@@ -1,0 +1,13 @@
+module Test (
+  input reg [31:0] in1,
+  output [34:0] out  
+);
+
+wire [2:0] temp;
+assign temp=3'b000;
+assign out={temp,in1};
+
+endmodule
+
+
+// in1=32'b10110101001101111111110100110111;
